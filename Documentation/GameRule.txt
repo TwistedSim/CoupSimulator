@@ -1,5 +1,5 @@
 
-Each player starts the game with two coins and two influence – i.e., two face-down
+Each player starts the game with two coins and two influences – i.e., two face-down
 character cards; the fifteen card deck consists of three copies of five different 
 characters, each with a unique set of powers:
 
